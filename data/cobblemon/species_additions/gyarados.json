@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:gyarados",
+    "evolutions": [
+    {
+      "id": "koidragon",
+      "variant": "item_interact",
+      "result": "koidragon",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}

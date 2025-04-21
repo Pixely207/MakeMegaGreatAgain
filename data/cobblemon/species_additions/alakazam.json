@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:alakazam",
+    "evolutions": [
+    {
+      "id": "bigbrain",
+      "variant": "item_interact",
+      "result": "bigbrain",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}

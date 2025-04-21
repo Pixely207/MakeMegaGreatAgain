@@ -81,5 +81,15 @@
   },
   "height": 65,
   "weight": 2350,
-  "evolutions": []
+  "evolutions": [
+    {
+      "id": "gyarados",
+      "variant": "item_interact",
+      "result": "gyarados",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
 }

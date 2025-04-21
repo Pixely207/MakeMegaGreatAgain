@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:garchomp",
+    "evolutions": [
+    {
+      "id": "landshark",
+      "variant": "item_interact",
+      "result": "landshark",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}

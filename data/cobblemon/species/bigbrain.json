@@ -213,5 +213,15 @@
   },
   "height": 15,
   "weight": 480,
-  "evolutions": []
+  "evolutions": [
+    {
+      "id": "alakazam",
+      "variant": "item_interact",
+      "result": "alakazam",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
 }

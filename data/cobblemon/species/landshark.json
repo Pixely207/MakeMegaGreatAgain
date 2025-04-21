@@ -205,5 +205,15 @@
   },
   "height": 190,
   "weight": 950,
-  "evolutions": []
+  "evolutions": [
+    {
+      "id": "garchomp",
+      "variant": "item_interact",
+      "result": "garchomp",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
 }
