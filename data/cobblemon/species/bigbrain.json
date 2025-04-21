@@ -45,7 +45,7 @@
   "catchRate": 50,
   "maleRatio": 0.5,
   "shoulderMountable": false,
-  "baseExperienceYield": 100,
+  "baseExperienceYield": 221,
   "experienceGroup": "medium_slow",
   "eggCycles": 20,
   "eggGroups": [
