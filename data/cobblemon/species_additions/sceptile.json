@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:sceptile",
+    "evolutions": [
+    {
+      "id": "junglelizard",
+      "variant": "item_interact",
+      "result": "junglelizard",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}

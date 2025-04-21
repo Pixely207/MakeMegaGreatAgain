@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:blaziken",
+    "evolutions": [
+    {
+      "id": "firechicken",
+      "variant": "item_interact",
+      "result": "firechicken",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}
