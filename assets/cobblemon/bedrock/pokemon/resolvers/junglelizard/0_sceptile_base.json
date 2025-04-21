@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:junglelizard",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:sceptile",
+      "model": "cobblemon:sceptile_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_mega.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "model": "cobblemon:sceptile_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0254_sceptile/megasceptile_shiny.png"
+    }
+  ]
+}

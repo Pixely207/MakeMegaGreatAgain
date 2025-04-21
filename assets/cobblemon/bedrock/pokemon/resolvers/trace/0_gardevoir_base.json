@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:trace",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:gardevoir",
+      "model": "cobblemon:gardevoirmega.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/megagardevoir.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "model": "cobblemon:gardevoirmega.geo",
+      "texture": "cobblemon:textures/pokemon/0282_gardevoir/megagardevoir_shiny.png"
+    }
+  ]
+}

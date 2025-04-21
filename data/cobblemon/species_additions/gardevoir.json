@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:gardevoir",
+    "evolutions": [
+    {
+      "id": "trace",
+      "variant": "item_interact",
+      "result": "trace",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}

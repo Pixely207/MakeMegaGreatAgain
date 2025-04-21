@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:gallade",
+    "evolutions": [
+    {
+      "id": "sharpness",
+      "variant": "item_interact",
+      "result": "sharpness",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}

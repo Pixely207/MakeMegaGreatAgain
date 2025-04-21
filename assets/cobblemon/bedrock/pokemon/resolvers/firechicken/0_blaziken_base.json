@@ -1,0 +1,24 @@
+{
+  "species": "cobblemon:firechicken",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "model": "cobblemon:blaziken_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0257_blaziken/megablaziken.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0257_blaziken/blaziken_mega_emissive.png",
+          "translucent": false
+        }
+      ]
+    },
+    {
+      "aspects": ["shiny"],
+      "model": "cobblemon:blaziken_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0257_blaziken/megablaziken_shiny.png"
+    }
+  ]
+}

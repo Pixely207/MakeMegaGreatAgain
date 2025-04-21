@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:nograss",
+  "order": 0,
+  "variations": [
+    {
+      "aspects": [],
+      "poser": "cobblemon:swampert",
+      "model": "cobblemon:swampert_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0260_swampert/megaswampert.png",
+      "layers": []
+    },
+    {
+      "aspects": ["shiny"],
+      "model": "cobblemon:swampert_mega.geo",
+      "texture": "cobblemon:textures/pokemon/0260_swampert/megaswampert_shiny.png"
+    }
+  ]
+}
