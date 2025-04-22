@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:sharpedo",
+    "evolutions": [
+    {
+      "id": "surfshark",
+      "variant": "item_interact",
+      "result": "surfshark",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}
