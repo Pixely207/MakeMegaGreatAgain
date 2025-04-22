@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:altaria",
+    "evolutions": [
+    {
+      "id": "hummingbird",
+      "variant": "item_interact",
+      "result": "hummingbird",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}
