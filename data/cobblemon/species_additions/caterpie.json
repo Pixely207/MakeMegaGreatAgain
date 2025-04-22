@@ -1,3 +1,17 @@
 {
-  "target":
+    "target": "cobblemon:caterpie",
+    "evolutions": [
+    {
+      "id": "caterpie_rayquaza",
+      "variant": "level_up",
+      "result": "rayquaza",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [
+       {
+         "variant": "level",
+         "minLevel": 70
+       }
+    }
+  ]
 }
