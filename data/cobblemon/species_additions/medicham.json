@@ -1,0 +1,14 @@
+{
+    "target": "cobblemon:medicham",
+    "evolutions": [
+    {
+      "id": "yoga",
+      "variant": "item_interact",
+      "result": "yoga",
+      "consumeHeldItem": false,
+      "learnableMoves": [],
+      "requirements": [],
+      "requiredContext": "mega_showdown:mega_stone"
+    }
+  ]
+}
