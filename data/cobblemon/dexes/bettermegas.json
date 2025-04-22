@@ -1,0 +1,20 @@
+{
+    "type": "cobblemon:simple_pokedex_def",
+    "id": "cobblemon:mmga",
+    "sortOrder": 11,
+    "entries": [
+      "cobblemon:landshark",
+      "cobblemon:koidragon",
+      "cobblemon:bigbrain",
+      "cobblemon:junglelizard",
+      "cobblemon:nograss",
+      "cobblemon:firechicken",
+      "cobblemon:disaster",
+      "cobblemon:sharpness",
+      "cobblemon:trace",
+      "cobblemon:hummingbird",
+      "cobblemon:surfshark",
+      "cobblemon:yoga"
+    ]
+  }
+  
