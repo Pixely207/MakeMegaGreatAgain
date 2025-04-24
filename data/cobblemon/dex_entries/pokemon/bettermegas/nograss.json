@@ -1,0 +1,16 @@
+{
+    "id": "cobblemon:nograss",
+    "speciesId": "cobblemon:nograss",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
+  

@@ -1,0 +1,16 @@
+{
+    "id": "cobblemon:firechicken",
+    "speciesId": "cobblemon:firechicken",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
+  

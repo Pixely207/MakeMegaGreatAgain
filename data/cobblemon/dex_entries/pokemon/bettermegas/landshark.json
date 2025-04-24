@@ -1,0 +1,16 @@
+{
+    "id": "cobblemon:landshark",
+    "speciesId": "cobblemon:landshark",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
+  

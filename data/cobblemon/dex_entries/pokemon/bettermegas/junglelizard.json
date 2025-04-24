@@ -1,0 +1,16 @@
+{
+    "id": "cobblemon:junglelizard",
+    "speciesId": "cobblemon:junglelizard",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
+  

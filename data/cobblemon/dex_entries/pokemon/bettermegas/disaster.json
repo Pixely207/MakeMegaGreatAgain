@@ -1,0 +1,16 @@
+{
+    "id": "cobblemon:disaster",
+    "speciesId": "cobblemon:disaster",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
+  

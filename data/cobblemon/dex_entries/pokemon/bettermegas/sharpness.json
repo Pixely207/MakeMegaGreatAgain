@@ -1,0 +1,16 @@
+{
+    "id": "cobblemon:sharpness",
+    "speciesId": "cobblemon:sharpness",
+    "displayAspects": [],
+    "conditionAspects": [],
+    "forms": [
+      {
+        "displayForm": "Normal",
+        "unlockForms": [
+          "Normal"
+        ]
+      }
+    ],
+    "variations": []
+  }
+  
